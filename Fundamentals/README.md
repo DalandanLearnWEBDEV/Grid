@@ -1,4 +1,4 @@
 # Grid  
 ## Hello World  
 ## Mini Project  
-- Grid Testimonials 
+- Grid Testimonials Mini Project
